@@ -90,6 +90,6 @@ Dimensions are supported for custom sum metrics.  To set this up, log your dimen
 
 ## Tags
 
-Statsig allows you organize your metrics using tags. With tags, you can create a collection of metrics for associated in some way, such as a product area, business function, business objective, and so on. You can also create a loose collection of _guardrail metrics_ that teams check in every experiment to ensure there are causing no unexpected effects in other parts of the business. Once you create a tagged collection of metrics, you can easily pull up this set of metrics when viewing your experiment results and zoom into the context that you want to focus on. 
+Statsig allows you organize your metrics using tags. With tags, you can create a collection of metrics that are associated in some way, such as a product area, business function, business objective, and so on. You can also create a loose collection of _guardrail metrics_ that teams check in every experiment to ensure the experiment is not causing any unexpected effects in other parts of the business. Once you create a tagged collection of metrics, you can easily pull up this set of metrics when viewing your experiment results and zoom into the context that you want to focus on. 
 
 You can create a tag in the [Metrics Catalog](https://console.statsig.com/4TLCtqzctSqusYcQljJLJE/metrics/metrics_catalog), and then add the tag to all the metrics that you want to add to the collection. To learn more, visit [Creating Metric Tags](https://docs.statsig.com/metrics/create-metric-tags).   
